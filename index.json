@@ -60,6 +60,30 @@
                     "legacyFiles": {}
                 }
             }
+        },
+        "studio.nekomimi.weatherpanel": {
+            "versions": {
+                "0.4.0": {
+                    "name": "studio.nekomimi.weatherpanel",
+                    "displayName": "nS weatherPanel",
+                    "version": "0.4.0",
+                    "description": "気象庁から取得した日本の天気予報を表示",
+                    "dependencies": {},
+                    "gitDependencies": {},
+                    "vpmDependencies": {
+                        "com.vrchat.udonsharp": "1.1.6",
+                        "studio.nekomimi.parsevideo": "1.0.3"
+                    },
+                    "author": {
+                        "name": "mewl hayabusa",
+                        "email": "mewl@mewl.me",
+                        "url": "https://nekomimi.studio"
+                    },
+                    "url": "https://github.com/m-hayabusa/nsWeatherPanel/releases/download/0.4.0/studio.nekomimi.weatherpanel-0.4.0.zip",
+                    "legacyFolders": {},
+                    "legacyFiles": {}
+                }
+            }
         }
     }
 }
