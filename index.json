@@ -3,5 +3,63 @@
     "author": "mewl hayabusa",
     "url": "https://vpm.nekomimi.studio/index.json",
     "packages": {
+        "studio.nekomimi.parsevideo": {
+            "versions": {
+                "1.0.4": {
+                    "name": "studio.nekomimi.parsevideo",
+                    "displayName": "nS videoParser",
+                    "version": "1.0.4",
+                    "description": "parses table and image from video.\nuse with https://github.com/m-hayabusa/send_text_to_vrc",
+                    "gitDependencies": {},
+                    "vpmDependencies": {
+                        "com.vrchat.udonsharp": "1.1.6"
+                    },
+                    "author": {
+                        "name": "mewl hayabusa",
+                        "email": "mewl@mewl.me",
+                        "url": "https://nekomimi.studio"
+                    },
+                    "url": "https://github.com/m-hayabusa/VRC_get_text_from_video/releases/download/1.0.4/studio.nekomimi.parsevideo-1.0.4.zip",
+                    "legacyFolders": {},
+                    "legacyFiles": {}
+                },
+                "1.0.3": {
+                    "name": "studio.nekomimi.parsevideo",
+                    "displayName": "nS videoParser",
+                    "version": "1.0.3",
+                    "description": "parses table and image from video.\nuse with https://github.com/m-hayabusa/send_text_to_vrc",
+                    "gitDependencies": {},
+                    "vpmDependencies": {
+                        "com.vrchat.udonsharp": "1.1.6"
+                    },
+                    "author": {
+                        "name": "mewl hayabusa",
+                        "email": "mewl@mewl.me",
+                        "url": "https://nekomimi.studio"
+                    },
+                    "url": "https://github.com/m-hayabusa/VRC_get_text_from_video/releases/download/1.0.3/studio.nekomimi.parsevideo-1.0.3.zip",
+                    "legacyFolders": {},
+                    "legacyFiles": {}
+                },
+                "1.0.2": {
+                    "name": "studio.nekomimi.parsevideo",
+                    "displayName": "nS videoParser",
+                    "version": "1.0.2",
+                    "description": "parses table and image from video.\nuse with https://github.com/m-hayabusa/send_text_to_vrc",
+                    "gitDependencies": {},
+                    "vpmDependencies": {
+                        "com.vrchat.udonsharp": "1.1.6"
+                    },
+                    "author": {
+                        "name": "mewl hayabusa",
+                        "email": "mewl@mewl.me",
+                        "url": "https://nekomimi.studio"
+                    },
+                    "url": "https://github.com/m-hayabusa/VRC_get_text_from_video/releases/download/1.0.2/studio.nekomimi.parsevideo-1.0.2.zip",
+                    "legacyFolders": {},
+                    "legacyFiles": {}
+                }
+            }
+        }
     }
 }
