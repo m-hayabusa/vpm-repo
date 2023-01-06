@@ -19,7 +19,7 @@
                         "email": "mewl@mewl.me",
                         "url": "https://nekomimi.studio"
                     },
-                    "url": "https://github.com/m-hayabusa/VRC_get_text_from_video/releases/download/1.0.4/studio.nekomimi.parsevideo-1.0.4.zip",
+                    "url": "https://github.com/m-hayabusa/VRC_get_text_from_video/releases/download/1.0.4/studio.nekomimi.parsevideo-1.0.4.zip?",
                     "legacyFolders": {},
                     "legacyFiles": {}
                 },
@@ -37,7 +37,7 @@
                         "email": "mewl@mewl.me",
                         "url": "https://nekomimi.studio"
                     },
-                    "url": "https://github.com/m-hayabusa/VRC_get_text_from_video/releases/download/1.0.3/studio.nekomimi.parsevideo-1.0.3.zip",
+                    "url": "https://github.com/m-hayabusa/VRC_get_text_from_video/releases/download/1.0.3/studio.nekomimi.parsevideo-1.0.3.zip?",
                     "legacyFolders": {},
                     "legacyFiles": {}
                 },
@@ -55,7 +55,7 @@
                         "email": "mewl@mewl.me",
                         "url": "https://nekomimi.studio"
                     },
-                    "url": "https://github.com/m-hayabusa/VRC_get_text_from_video/releases/download/1.0.2/studio.nekomimi.parsevideo-1.0.2.zip",
+                    "url": "https://github.com/m-hayabusa/VRC_get_text_from_video/releases/download/1.0.2/studio.nekomimi.parsevideo-1.0.2.zip?",
                     "legacyFolders": {},
                     "legacyFiles": {}
                 }
@@ -63,6 +63,26 @@
         },
         "studio.nekomimi.weatherpanel": {
             "versions": {
+                "0.4.1": {
+                    "name": "studio.nekomimi.weatherpanel",
+                    "displayName": "nS weatherPanel",
+                    "version": "0.4.1",
+                    "description": "気象庁から取得した日本の天気予報を表示",
+                    "dependencies": {},
+                    "gitDependencies": {},
+                    "vpmDependencies": {
+                        "com.vrchat.udonsharp": "1.1.6",
+                        "studio.nekomimi.parsevideo": "1.0.3"
+                    },
+                    "author": {
+                        "name": "mewl hayabusa",
+                        "email": "mewl@mewl.me",
+                        "url": "https://nekomimi.studio"
+                    },
+                    "url": "https://github.com/m-hayabusa/nsWeatherPanel/releases/download/0.4.1/studio.nekomimi.weatherpanel-0.4.1.zip?",
+                    "legacyFolders": {},
+                    "legacyFiles": {}
+                },
                 "0.4.0": {
                     "name": "studio.nekomimi.weatherpanel",
                     "displayName": "nS weatherPanel",
@@ -79,7 +99,7 @@
                         "email": "mewl@mewl.me",
                         "url": "https://nekomimi.studio"
                     },
-                    "url": "https://github.com/m-hayabusa/nsWeatherPanel/releases/download/0.4.0/studio.nekomimi.weatherpanel-0.4.0.zip",
+                    "url": "https://github.com/m-hayabusa/nsWeatherPanel/releases/download/0.4.0/studio.nekomimi.weatherpanel-0.4.0.zip?",
                     "legacyFolders": {},
                     "legacyFiles": {}
                 }
