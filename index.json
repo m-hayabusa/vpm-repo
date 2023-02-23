@@ -128,6 +128,25 @@
                     "url": "https://github.com/m-hayabusa/VRC-FeedReader/releases/download/0.1.0/studio.nekomimi.feedreader-0.1.0.zip?"
                 }
             }
+        },
+        "studio.nekomimi.udonxml": {
+            "versions": {
+                "0.2.0": {
+                    "name": "studio.nekomimi.udonxml",
+                    "displayName": "studio.nekomimi.udonxml",
+                    "version": "0.2.0",
+                    "description": "Describe this Package",
+                    "dependencies": {},
+                    "gitDependencies": {},
+                    "vpmDependencies": {
+                        "com.vrchat.udonsharp": "1.1.6"
+                    },
+                    "legacyFolders": {},
+                    "legacyFiles": {},
+                    "localPath": "D:\\VRChatProjects\\Udon\\AtomParser\\Packages\\studio.nekomimi.udonxml",
+                    "url": "https://github.com/m-hayabusa/UdonXML/releases/download/0.2.0/studio.nekomimi.udonxml-0.2.0.zip?"
+                }
+            }
         }
     }
 }
