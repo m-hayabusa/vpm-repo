@@ -30,6 +30,13 @@
 <p class="lead">${package.description}</p>
 <p>
     <a href="installer/${package.displayName}-installer.unitypackage" class="btn btn-outline-info">UnityPackage</a>
+    ${(()=>{
+        if (package.repository && package.repository.url && package.repository.url.match(/^https?:\/\//)) {
+            return `<a href="${package.repository.url}" class="btn btn-outline-info">Repository</a>`
+        } else {
+            return ""
+        }
+    })()}
 </p>`
                 document.getElementById("list").appendChild(content);
             }
@@ -113,7 +120,7 @@
         </main>
 
         <footer class="mt-auto text-white-50">
-            <p><a href="https://nekomimi.studio" class="text-white"> nekomimiStudio</a></p>
+            <p><a href="https://nekomimi.studio" class="text-white"> nekomimiStudio</a> <a class="text-white" href="https://github.com/m-hayabusa/vpm-repo">(repo)</a></p>
         </footer>
     </div>
 </body>
