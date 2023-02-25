@@ -13,14 +13,15 @@
     <!-- CSS only -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/css/bootstrap.min.css" rel="stylesheet"
         integrity="sha384-gH2yIJqKdNHPEq0n4Mqa/HGKIhSkIHeL5AyhkYV8i59U5AR6csBvApHHNl/vI1Bx" crossorigin="anonymous">
-
+    <script src=https://unpkg.com/compare-versions/lib/umd/index.js></script>
     <script>
         (async () => {
             const repo = await (await fetch("index.json")).json();
 
             for (let i = 0; i < Object.keys(repo.packages).length; i++) {
                 const name = Object.keys(repo.packages)[i];
-                const version = Object.keys(repo.packages[name].versions)[0];
+                const versions = Object.keys(repo.packages[name].versions).sort(window.compareVersions.compareVersions);
+                const version = versions[versions.length - 1];
                 const package = repo.packages[name].versions[version];
                 const content = document.createElement("li");
                 content.innerHTML =
