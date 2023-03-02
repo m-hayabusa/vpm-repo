@@ -279,6 +279,25 @@
                     "legacyFolders": {},
                     "legacyFiles": {},
                     "url": "https://github.com/m-hayabusa/UdonXML/releases/download/0.2.2/studio.nekomimi.udonxml-0.2.2.zip?"
+                },
+                "0.2.3": {
+                    "name": "studio.nekomimi.udonxml",
+                    "displayName": "UdonXML",
+                    "version": "0.2.3",
+                    "description": "an XML parser. forked from https://github.com/Foorack/UdonXML",
+                    "repository": {
+                        "type": "git",
+                        "url": "https://github.com/m-hayabusa/UdonXML.git"
+                    },
+                    "license": "MIT",
+                    "dependencies": {},
+                    "gitDependencies": {},
+                    "vpmDependencies": {
+                        "com.vrchat.udonsharp": "1.1.6"
+                    },
+                    "legacyFolders": {},
+                    "legacyFiles": {},
+                    "url": "https://github.com/m-hayabusa/UdonXML/releases/download/0.2.3/studio.nekomimi.udonxml-0.2.3.zip?"
                 }
             }
         }
