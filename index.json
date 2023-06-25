@@ -73,14 +73,14 @@
                     "vpmDependencies": {
                         "com.vrchat.udonsharp": "~1.1.7"
                     },
+                    "legacyFolders": {},
+                    "legacyFiles": {},
                     "author": {
                         "name": "mewl hayabusa",
                         "email": "mewl@mewl.me",
                         "url": "https://nekomimi.studio"
                     },
-                    "url": "https://github.com/m-hayabusa/nsWeatherPanel/releases/download/0.4.2/studio.nekomimi.weatherpanel-0.4.2.zip?",
-                    "legacyFolders": {},
-                    "legacyFiles": {}
+                    "url": "https://github.com/m-hayabusa/nsWeatherPanel/releases/download/0.4.2/studio.nekomimi.weatherpanel-0.4.2.zip?"
                 },
                 "0.4.1": {
                     "name": "studio.nekomimi.weatherpanel",
