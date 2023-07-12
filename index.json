@@ -448,6 +448,29 @@
                     "url": "https://github.com/m-hayabusa/UdonXML/releases/download/0.2.5/studio.nekomimi.udonxml-0.2.5.zip?"
                 }
             }
+        },
+        "studio.nekomimi.parser.xml": {
+            "versions": {
+                "0.0.1": {
+                    "name": "studio.nekomimi.parser.xml",
+                    "displayName": "nS XMLParser",
+                    "version": "0.0.1",
+                    "description": "XML Parser.",
+                    "dependencies": {},
+                    "gitDependencies": {},
+                    "vpmDependencies": {
+                        "com.vrchat.udonsharp": "1.1.8"
+                    },
+                    "author": {
+                        "name": "mewl hayabusa",
+                        "email": "mewl@mewl.me",
+                        "url": "https://nekomimi.studio/"
+                    },
+                    "legacyFolders": {},
+                    "legacyFiles": {},
+                    "url": "https://github.com/m-hayabusa/UdonXMLParser/releases/download/0.0.1/studio.nekomimi.parser.xml-0.0.1.zip?"
+                }
+            }
         }
     }
 }
