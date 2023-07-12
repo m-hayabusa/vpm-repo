@@ -7,9 +7,9 @@
             "versions": {
                 "1.0.4": {
                     "name": "studio.nekomimi.parsevideo",
-                    "displayName": "nS videoParser",
+                    "displayName": "(deprecated) nS videoParser",
                     "version": "1.0.4",
-                    "description": "parses table and image from video.\nuse with https://github.com/m-hayabusa/send_text_to_vrc",
+                    "description": "(deprecated) parses table and image from video.\nuse with https://github.com/m-hayabusa/send_text_to_vrc",
                     "gitDependencies": {},
                     "vpmDependencies": {
                         "com.vrchat.udonsharp": "1.1.6"
@@ -454,9 +454,9 @@
                 },
                 "0.2.5": {
                     "name": "studio.nekomimi.udonxml",
-                    "displayName": "UdonXML",
+                    "displayName": "(deprecated) UdonXML",
                     "version": "0.2.5",
-                    "description": "an XML parser. forked from https://github.com/Foorack/UdonXML",
+                    "description": "(deprecated) an XML parser. forked from https://github.com/Foorack/UdonXML",
                     "repository": {
                         "type": "git",
                         "url": "https://github.com/m-hayabusa/UdonXML.git"
