@@ -542,6 +542,33 @@
                     "url": "https://github.com/m-hayabusa/UdonXMLParser/releases/download/0.1.0/studio.nekomimi.parser.xml-0.1.0.zip?"
                 }
             }
+        },
+        "studio.nekomimi.onewaycollider": {
+            "versions": {
+                "0.0.1": {
+                    "name": "studio.nekomimi.onewaycollider",
+                    "displayName": "nS oneWayCollider",
+                    "version": "0.0.1",
+                    "repository": {
+                        "type": "git",
+                        "url": "https://github.com/m-hayabusa/OneWayCollider.git"
+                    },
+                    "description": "上から落ちてきたときにコライダ有効にするやつ",
+                    "gitDependencies": {},
+                    "vpmDependencies": {
+                        "com.vrchat.worlds": "~3"
+                    },
+                    "license": "BSD-1-Clause",
+                    "legacyFolders": {},
+                    "legacyFiles": {},
+                    "author": {
+                        "name": "mewl hayabusa",
+                        "email": "mewl@mewl.me",
+                        "url": "https://nekomimi.studio"
+                    },
+                    "url": "https://github.com/m-hayabusa/OneWayCollider/releases/download/0.0.1/studio.nekomimi.onewaycollider-0.0.1.zip?"
+                }
+            }
         }
     }
 }
