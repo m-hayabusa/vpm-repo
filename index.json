@@ -2,6 +2,7 @@
     "name": "nekomimiStudio VPM Repo",
     "author": "mewl hayabusa",
     "url": "https://vpm.nekomimi.studio/index.json",
+    "id": "studio.nekomimi.vpm",
     "packages": {
         "studio.nekomimi.parsevideo": {
             "versions": {
